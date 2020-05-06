@@ -1,0 +1,42 @@
+body {
+  background: url(2020pics/skittles.jpg) no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  color: white;
+}
+.sign-in {
+  width: 280px;
+  height: 280px;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+}
+.logo {
+  font-size: 25px;
+  border-bottom: 3px solid green;
+  text-align: center;
+}
+.login-box {
+  padding: 15px;
+  border: none;
+  text-align: center;
+  border-bottom: 2px solid green;
+}
+.login-box input {
+  border: none;
+  outline: none;
+  background: none;
+  color: white;
+  font-weight: 900;
+  font-size: large;
+}
+.btn-box {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 25px;
+}
+.btn-box input {
+  font-size: large;
+  background: none;
+  color: white;
+}
